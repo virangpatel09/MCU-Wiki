@@ -2,6 +2,9 @@
 
 Responsive website using React js that show information about all MCU(Marvel Cinematic Universe) Characters.
 
+## App link
+[https://mcu-wiki.netlify.app/](https://mcu-wiki.netlify.app/)
+
 ## Packages installation steps
 
 npx create-react-app .
