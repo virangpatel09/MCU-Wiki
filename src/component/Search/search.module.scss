@@ -1,0 +1,24 @@
+.input{
+    width:40%;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 15px;
+    color: red;
+
+    &:focus{
+        outline: none;
+    }
+}
+
+.btn{
+    border-radius: 9px;
+    font-size: medium;
+    width: 78px;
+}
+
+@media(max-width:576px)
+{
+    .input{
+        width: 80%;
+    }
+}
